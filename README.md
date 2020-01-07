@@ -1,6 +1,7 @@
 # poi200107submodules
 submodules
 
+```
 //git clone --recurse-submodules --shallow-submodules https://github.com/wotupset/poi200107.git 
 git clone --depth 1 https://github.com/wotupset/poi200107submodules.git poi200107submodules
 
@@ -63,3 +64,4 @@ usage: git submodule [--quiet] [--cached]
    
    
    
+```
